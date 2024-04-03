@@ -6,10 +6,16 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Document</title>
     <script src="https://telegram.org/js/telegram-web-app.js"></script>
+    <script>
+        let tg = window.Telegram.WebApp;
+        let initData = tg.initData;
+        document.getElementById('data').innerText = JSON.stringify(initData);
+
+    </script>
 </head>
 
 <body>
-    <p>hello world</p>
+    <p id="data">hello world</p>
 
 </body>
 
