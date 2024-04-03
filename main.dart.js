@@ -62989,8 +62989,8 @@ R(a){var s=null,r=A.a9B(B.JS),q=A.a([A.a78(B.zi,new A.TV(a),B.JX,B.JY),A.a78(B.z
 o=o?B.vB:s
 return A.aca(r,new A.BG(new A.Yk(!0,!0,!0,q,p),s,B.c5,!1,s,s,o,!1,s,3,B.bG,B.EK,s,B.aN,s))}}
 A.TV.prototype={
-$0(){A.UD(this.a).JF("/leads",null,t.X)
-Telegram.WebApp.expand()},
+$0(){Telegram.WebApp.expand()
+A.UD(this.a).JF("/leads",null,t.X)},
 $S:0}
 A.TW.prototype={
 $0(){},
@@ -67285,7 +67285,7 @@ B.J_=new A.r(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.IG=new A.r(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.JQ=new A.d0(B.It,B.Jy,B.Jh,B.Hi,B.Ja,B.Ir,B.JB,B.HK,B.I9,B.J3,B.Ha,B.Jj,B.J7,B.J_,B.IG)
 B.JR=new A.eC("\u043d\u0430 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",null,null,null,null)
-B.JS=new A.eC("SmartCRM",null,null,null,null)
+B.JS=new A.eC("SmartCRM 1.0",null,null,null,null)
 B.JT=new A.eC("\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430",null,null,null,null)
 B.JU=new A.eC("\u0437\u0430\u044f\u0432\u043a\u0438 \u043e\u0442 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432",null,null,null,null)
 B.JV=new A.eC("\u0417\u0430\u044f\u0432\u043a\u0438",null,null,null,null)
