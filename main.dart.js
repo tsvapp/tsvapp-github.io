@@ -66025,7 +66025,7 @@ A.Q0.prototype={
 $0(){return B.k8},
 $S:133}
 A.De.prototype={
-N(a){var s=null,r=A.ad0(s,B.Kl),q=A.ag_(A.a([A.tB(B.zH,new A.WD(),B.Kr,B.Km,B.fC),A.tB(B.zI,new A.WE(),B.Kp,B.Kv,B.fC),A.tB(B.zK,new A.WF(),B.Kq,B.Kn,B.fC)],t.F),!0,!0,!0),p=!0
+N(a){var s=null,r=A.ad0(s,B.Ku),q=A.ag_(A.a([A.tB(B.zH,new A.WD(),B.Kq,B.Kl,B.fC),A.tB(B.zI,new A.WE(),B.Ko,B.Kv,B.fC),A.tB(B.zK,new A.WF(),B.Kp,B.Km,B.fC)],t.F),!0,!0,!0),p=!0
 p=p?B.iz:s
 return A.afH(r,new A.tC(q,s,B.bg,!1,s,s,p,!1,s,3,B.b1,B.uv,s,B.aj,s))}}
 A.WD.prototype={
@@ -66042,21 +66042,21 @@ ah(){return new A.JE(B.j)}}
 A.JE.prototype={
 az(){Telegram.WebApp.expand()
 this.aQ()},
-N(a){return new A.ra(3,A.afH(A.ad0(B.EQ,B.Ku),new A.vQ(A.a([A.aaB(new A.a5_(),10),A.aaB(new A.a50(),10),A.aaB(new A.a51(),10)],t.F),null)),null)}}
+N(a){return new A.ra(3,A.afH(A.ad0(B.EQ,B.Kt),new A.vQ(A.a([A.aaB(new A.a5_(),10),A.aaB(new A.a50(),10),A.aaB(new A.a51(),10)],t.F),null)),null)}}
 A.a5_.prototype={
 $2(a,b){var s=null
-return A.tB(s,new A.a4Z(a),B.Ko,A.a16("\u0417\u0430\u044f\u0432\u043a\u0430 "+b,s,s),s)},
+return A.tB(s,new A.a4Z(a),B.Kn,A.a16("\u0417\u0430\u044f\u0432\u043a\u0430 "+b,s,s),s)},
 $S:49}
 A.a4Z.prototype={
 $0(){A.Xr(this.a).AO("/leads",null,t.X)},
 $S:0}
 A.a50.prototype={
 $2(a,b){var s=null
-return A.tB(s,s,B.Kt,A.a16("\u0417\u0430\u044f\u0432\u043a\u0430 "+b,s,s),s)},
+return A.tB(s,s,B.Ks,A.a16("\u0417\u0430\u044f\u0432\u043a\u0430 "+b,s,s),s)},
 $S:49}
 A.a51.prototype={
 $2(a,b){var s=null
-return A.tB(s,s,B.Ks,A.a16("\u0417\u0430\u044f\u0432\u043a\u0430 "+b,s,s),s)},
+return A.tB(s,s,B.Kr,A.a16("\u0417\u0430\u044f\u0432\u043a\u0430 "+b,s,s),s)},
 $S:49}
 A.bg.prototype={
 aU(a){var s=a.a,r=this.a
@@ -70471,16 +70471,16 @@ B.JC=new A.u(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,n
 B.Ju=new A.u(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelMedium",null,null,null,null)
 B.Ja=new A.u(!0,B.i,null,"Roboto",null,null,null,null,null,null,null,null,null,null,null,null,null,B.e,null,null,null,"whiteMountainView labelSmall",null,null,null,null)
 B.Kk=new A.dc(B.IY,B.K2,B.JM,B.HN,B.JF,B.IW,B.K5,B.Ie,B.IE,B.Jy,B.HF,B.JO,B.JC,B.Ju,B.Ja)
-B.Kl=new A.dz("SmartCRM 1.1",null,null,null,null,null,null)
-B.Km=new A.dz("\u0417\u0430\u0432\u044f\u0432\u043a\u0438",null,null,null,null,null,null)
-B.Kn=new A.dz("\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430",null,null,null,null,null,null)
-B.Ko=new A.dz("\u0412\u043e\u0434\u043e\u043c\u0430\u0442",null,null,null,null,null,null)
-B.Kp=new A.dz("\u043d\u0430 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",null,null,null,null,null,null)
-B.Kq=new A.dz("\u0437\u0430\u044f\u0432\u043a\u0438 \u043e\u0442 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432",null,null,null,null,null,null)
-B.Kr=new A.dz("\u0438\u0437 \u043b\u0435\u043d\u0434\u0438\u043d\u0433\u0430",null,null,null,null,null,null)
-B.Ks=new A.dz("\u043f\u0440\u0438\u0447\u0438\u043d\u0430",null,null,null,null,null,null)
-B.Kt=new A.dz("\u043a\u043e\u043c\u043c\u0435\u043d\u0442",null,null,null,null,null,null)
-B.Ku=new A.dz("\u0417\u0430\u044f\u0432\u043a\u0438",null,null,null,null,null,null)
+B.Kl=new A.dz("\u0417\u0430\u0432\u044f\u0432\u043a\u0438",null,null,null,null,null,null)
+B.Km=new A.dz("\u041f\u043e\u0434\u0434\u0435\u0440\u0436\u043a\u0430",null,null,null,null,null,null)
+B.Kn=new A.dz("\u0412\u043e\u0434\u043e\u043c\u0430\u0442",null,null,null,null,null,null)
+B.Ko=new A.dz("\u043d\u0430 \u043f\u043e\u0434\u043a\u043b\u044e\u0447\u0435\u043d\u0438\u0435",null,null,null,null,null,null)
+B.Kp=new A.dz("\u0437\u0430\u044f\u0432\u043a\u0438 \u043e\u0442 \u043a\u043b\u0438\u0435\u043d\u0442\u043e\u0432",null,null,null,null,null,null)
+B.Kq=new A.dz("\u0438\u0437 \u043b\u0435\u043d\u0434\u0438\u043d\u0433\u0430",null,null,null,null,null,null)
+B.Kr=new A.dz("\u043f\u0440\u0438\u0447\u0438\u043d\u0430",null,null,null,null,null,null)
+B.Ks=new A.dz("\u043a\u043e\u043c\u043c\u0435\u043d\u0442",null,null,null,null,null,null)
+B.Kt=new A.dz("\u0417\u0430\u044f\u0432\u043a\u0438",null,null,null,null,null,null)
+B.Ku=new A.dz("SmartCRM 1.2",null,null,null,null,null,null)
 B.Kv=new A.dz("\u0410\u043d\u043a\u0435\u0442\u044b",null,null,null,null,null,null)
 B.Kw=new A.w2(0,"system")
 B.Kx=new A.w2(1,"light")
