@@ -35,7 +35,7 @@
 
   <script>
     // The value below is injected by flutter build, do not touch.
-    const serviceWorkerVersion = "2401161768";
+    const serviceWorkerVersion = "2572130807";
   </script>
   <!-- This script adds the flutter initialization JS code -->
   <script src="flutter.js" defer></script>
@@ -47,17 +47,6 @@
     document.addEventListener("touchmove", function (event) {
       event.preventDefault();
     }, { passive: false });
-    const tg = window.Telegram.WebApp;
-    tg.ready();
-    const backButton = tg.BackButton;
-    if (window.location.search && window.location.pathname !== '/') {
-      backButton.show();
-    } else {
-      backButton.hide();
-    }
-    backButton.onClick(() => {
-      history.back();
-    });
     window.addEventListener('load', function (ev) {
       // Download main.dart.js
       _flutter.loader.loadEntrypoint({
